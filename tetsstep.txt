@@ -1,4 +1,4 @@
-welcome to devops
-hi hello
-
-namaste
+hi
+hello
+how r u
+fine
